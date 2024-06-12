@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http\\Controllers",
+    "\\app\\Models",
+    "\\app\\Providers",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\layouts",
+    "\\resources\\views\\products"
+  ],
+  "SelectedNode": "\\database\\migrations\\2023_11_10_063657_create_permission_tables.php",
+  "PreviewInSolutionExplorer": false
+}
