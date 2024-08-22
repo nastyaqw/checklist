@@ -14,6 +14,7 @@ class ChecklistController extends Controller
     /**
      * Instantiate a new ChecklistController instance.
      */
+    
     public function __construct()
     {
        $this->middleware('auth');
